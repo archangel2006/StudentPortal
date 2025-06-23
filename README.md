@@ -1,4 +1,5 @@
-# 🎓 Student Portal - CassSync
+.....
+# 🎓 Student Portal - ClassSync
 
 A responsive and interactive student dashboard built with **React**, **Tailwind CSS**, **React Router**, and **Chart.js**. This portal allows students to log in, view summaries like GPA, attendance, and credits, and visualize academic performance through charts.
 
