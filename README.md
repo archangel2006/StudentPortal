@@ -75,11 +75,10 @@ src/
 └── main.jsx
 
 
-![image](https://github.com/user-attachments/assets/e80eed8d-bf86-430f-9319-4e1dfbd7ad24)
+![image](https://github.com/user-attachments/assets/5e0adff0-fa64-45ab-9149-05125d62bf09)
+![image](https://github.com/user-attachments/assets/b7091ad0-f0b3-46fa-a1ef-417e5474cb10)
+![image](https://github.com/user-attachments/assets/6210acc6-a89b-4846-a34d-ed5795315c12)
 
-![image](https://github.com/user-attachments/assets/b4377f82-f7c1-482d-a708-6f9530597eab)
-
-![image](https://github.com/user-attachments/assets/a6129e7e-350e-431f-80b4-268f3ee047b9)
 
 
 This isn't much but I tried. 🫠❤️‍🩹
