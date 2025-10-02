@@ -36,8 +36,11 @@ A responsive and interactive student dashboard built with **React**, **Tailwind 
 ## 🔑 Test Login Credentials
 
 Use the following credentials to explore the Dashboard:
+
 Email: jake13@gmail.com
+
 Password: 123#123
+
 ----
 
 ## 📦 Installation
@@ -73,7 +76,7 @@ src/
 ├── App.jsx
 ├── index.css          
 └── main.jsx
-
+```
 
 ![image](https://github.com/user-attachments/assets/5e0adff0-fa64-45ab-9149-05125d62bf09)
 ![image](https://github.com/user-attachments/assets/b7091ad0-f0b3-46fa-a1ef-417e5474cb10)
